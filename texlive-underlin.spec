@@ -6,7 +6,7 @@
 # catalog-version 1.01
 Name:		texlive-underlin
 Version:	1.01
-Release:	3
+Release:	4
 Summary:	Underlined running heads
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/underlin
