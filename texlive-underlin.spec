@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Underlined running heads
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/underlin
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/underlin
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/underlin.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/underlin.doc.r%{version}.tar.xz
